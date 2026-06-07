@@ -34,3 +34,4 @@ def rain(walls):
             total += water
 
     return total
+    
